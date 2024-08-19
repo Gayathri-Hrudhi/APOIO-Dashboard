@@ -22,6 +22,15 @@ def load_data():
     df['createdAt'] = pd.to_datetime(df['createdAt'], errors='coerce')
     return df
 
+def load_css():
+    with open("style.css") as f:
+        st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
+
+load_css()
+img = Image.open(r"apoio_logo.jpg")
+st.image(img, width=300)
+st.write("##")
+
 df = load_data()
 
 st.sidebar.title("Filters")
