@@ -124,16 +124,31 @@ with st.container():
     st.plotly_chart(line_chart_fig, use_container_width=True)
 
     st.write("### Geographical Distribution of Calls/Chats")
-    map_fig = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='category', size='duration',
-                                hover_name='countryName', hover_data=['province', 'thoroughfare'],
-                                mapbox_style="open-street-map", zoom=3)
-    st.plotly_chart(map_fig, use_container_width=True)
+
+    grouped_df = filtered_df.groupby(['latitude', 'longitude', 'category', 'countryName', 'province', 'thoroughfare']).size().reset_index(name='num_cases')
+
+    map_fig2 = px.scatter_mapbox(grouped_df, 
+                                lat='latitude', 
+                                lon='longitude', 
+                                color='category', 
+                                size='num_cases',
+                                hover_name='countryName', 
+                                hover_data=['province', 'thoroughfare', 'num_cases'],
+                                mapbox_style="open-street-map", 
+                                zoom=3)
+
+    st.plotly_chart(map_fig2, use_container_width=True)
+
+    # map_fig = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='category', size='duration',
+    #                             hover_name='countryName', hover_data=['province', 'thoroughfare'],
+    #                             mapbox_style="open-street-map", zoom=3)
+    # st.plotly_chart(map_fig, use_container_width=True)
 
     
-    map_fig_chat = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='chatType', size='age',
-                                hover_name='countryName', hover_data=['province', 'thoroughfare'],
-                                mapbox_style="open-street-map", zoom=3)
-    st.plotly_chart(map_fig_chat, use_container_width=True)
+    # map_fig_chat = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='chatType', size='age',
+    #                             hover_name='countryName', hover_data=['province', 'thoroughfare'],
+    #                             mapbox_style="open-street-map", zoom=3)
+    # st.plotly_chart(map_fig_chat, use_container_width=True)
 
     
     st.write("### Location Density of Calls")
