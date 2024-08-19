@@ -1,0 +1,566 @@
+userId,age,gender,height,weight,language,chatId,chatType,date,category,countryName,locality,thoroughfare,latitude,longitude,callId,duration,createdAt
+3ED486EA-EB98-46D2-9287-1A2554A6FED5,35,male,183.0,150,en,17,talk,17-07-2024 00:00,Pediatric Diseases,Mozambique,Texas,Broadway,0.0,0.0,10,211620.0,24:19.6
+3ED486EA-EB98-46D2-9287-1A2554A6FED5,35,male,183.0,150,en,18,Mental Health Support,17-07-2024 00:00,Diarrheal and Stomach Issues,Mozambique,Texas,Broadway,0.0,0.0,10,211620.0,24:19.6
+3ED486EA-EB98-46D2-9287-1A2554A6FED5,35,male,183.0,150,en,24,Food & Nutrition Support,19-07-2024 00:00,Mental Health Disorders,United States,Newark,Prince Street,40.73134667,-74.18796,10,211620.0,24:19.6
+3ED486EA-EB98-46D2-9287-1A2554A6FED5,35,male,183.0,150,en,59,chat,25-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,10,211620.0,24:19.6
+3ED486EA-EB98-46D2-9287-1A2554A6FED5,35,male,183.0,150,en,60,chat,25-07-2024 00:00,Mental Health Disorders,United States,Newark,Prince Street,40.731245,-74.18789667,10,211620.0,24:19.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,14,chat,16-07-2024 16:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,19,chat,18-07-2024 00:00,Maternal and Child Health,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,20,Mental Health Support,18-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,27,chat,21-07-2024 16:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,28,chat,22-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730928,120.242733,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,29,chat,22-07-2024 00:00,Reproductive Health,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,30,Malaria Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,31,chat,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,32,chat,22-07-2024 00:00,Unable to determine the type from the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,33,chat,22-07-2024 00:00,Sexually Transmitted Infections,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,34,Mental Health Support,22-07-2024 00:00,Mental Health Disorders,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,35,Sexual Health Support,22-07-2024 00:00,I can't determine the type based on the provided information.,United States,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,43,doctor chat,24-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,45,chat,25-07-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242747,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,61,chat,26-07-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242758,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,65,chat,29-07-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730929,120.242774,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,66,chat,29-07-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,67,chat,30-07-2024 00:00,Sexually Transmitted Infections,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,74,chat,02-08-2024 00:00,Unknown,Estados Unidos,Mountain View,Amphitheatre Parkway,37.42199833,-122.084,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,84,chat,05-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730929,120.242776,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,85,chat,05-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,86,chat,05-08-2024 16:00,Injuries and Accidents,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,87,chat,06-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730921,120.242757,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,96,chat,06-08-2024 16:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730934,120.242733,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,97,chat,06-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,98,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Xijiang Road,29.730945,120.24278,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,99,chat,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730945,120.24278,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,100,Mental Health Support,07-08-2024 00:00,Mental Health Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,101,Sexual Health Support,07-08-2024 00:00,I can’t determine the type based on the given input. Please provide a more detailed conversation.,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,102,Diabetes Support,07-08-2024 00:00,I cannot determine the conversation type from the provided information.,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,103,Cancer Support,07-08-2024 00:00,I need more context to provide an accurate answer.,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,104,Tourist Health Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,105,Food & Nutrition Support,07-08-2024 00:00,Respiratory,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,106,Vaccination Planning,07-08-2024 00:00,Neurological Disorders,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,107,Malaria Support,07-08-2024 00:00,Sexually Transmitted Infections,China,Shaoxing,Jibei Road,29.730909,120.242751,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,108,doctor chat,08-08-2024 00:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,110,chat,08-08-2024 16:00,Mental Health Disorders,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,119,doctor chat,13-08-2024 00:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,120,chat,13-08-2024 00:00,Unhandled Input,China,Shaoxing,Jibei Road,29.730814,120.242773,15,4140.0,42:42.6
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,1,4140.0,35:01.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,2,152380.0,43:12.2
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,3,108160.0,54:40.1
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,4,4140.0,36:41.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,5,76140.0,16:02.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,6,7260.0,20:58.4
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,7,48120.0,34:19.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,8,8360.0,41:09.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,9,4140.0,44:55.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,11,4140.0,21:35.9
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,12,30800.0,24:54.8
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,13,22400.0,27:16.7
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,14,1460.0,31:57.5
+01F66DE0-9E36-47B8-87B6-50F3BEC9E5CA,30,female,180.0,80,en,121,doctor chat,12-08-2024 16:00,Unhandled Input,Mozambique,Texas,Broadway,0.0,0.0,15,4140.0,42:42.6
