@@ -36,7 +36,7 @@ st.sidebar.title("Filters")
 start_date = st.sidebar.date_input("Start Date", value=pd.to_datetime(df['date']).min())
 end_date = st.sidebar.date_input("End Date", value=pd.to_datetime(df['date']).max())
 
-selected_durations = st.sidebar.slider("Duration (in seconds)", min_value=df['duration'].min(), max_value=df['duration'].max(), value=(0.0, df['duration'].max()))
+selected_durations = st.sidebar.slider("Call Duration (in seconds)", min_value=df['duration'].min(), max_value=df['duration'].max(), value=(0.0, df['duration'].max()))
 
 categories = df['category'].unique()
 selected_categories = st.sidebar.multiselect("Category", categories, default=categories)
@@ -116,11 +116,11 @@ with st.container():
 
     st.write("### Chats over Time")
     group_line = (
-            filtered_df.groupby(["date", 'chatId'])
-            .size()
-            .reset_index(name="count")
+            filtered_df.groupby(["date"])
+            .count()['chatId']
+            .reset_index()
         )
-    line_chart_fig = px.line(group_line, x='date', y='count')
+    line_chart_fig = px.line(group_line, x='date', y='chatId')
     st.plotly_chart(line_chart_fig, use_container_width=True)
 
     st.write("### Geographical Distribution of Calls/Chats")
@@ -143,7 +143,7 @@ with st.container():
     st.plotly_chart(heatmap_fig)
 
     
-    st.write("### Province-wise Drilldown")
+    st.write("### Province-wise drilldown")
     group_sun = (
             filtered_df.groupby(["province", "category", "chatType", 'gender'])
             .size()
