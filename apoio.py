@@ -17,9 +17,8 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('data.csv')
-    df['date'] = pd.to_datetime(df['date'], errors='coerce') 
-    df['createdAt'] = pd.to_datetime(df['createdAt'], errors='coerce')
+    df = pd.read_csv('dashboard_data.csv')
+    df['date'] = pd.to_datetime(df['date'], errors='coerce')
     return df
 
 def load_css():
@@ -37,15 +36,16 @@ st.sidebar.title("Filters")
 start_date = st.sidebar.date_input("Start Date", value=pd.to_datetime(df['date']).min())
 end_date = st.sidebar.date_input("End Date", value=pd.to_datetime(df['date']).max())
 
+selected_durations = st.sidebar.slider("Duration (in seconds)", min_value=df['duration'].min(), max_value=df['duration'].max(), value=(0.0, df['duration'].max()))
 
 categories = df['category'].unique()
 selected_categories = st.sidebar.multiselect("Category", categories, default=categories)
 
-countries = df['countryName'].unique()
-selected_countries = st.sidebar.multiselect("Country", countries, default=countries)
+# countries = df['countryName'].unique()
+# selected_countries = st.sidebar.multiselect("Country", countries, default=countries)
 
-localities = df['locality'].unique()
-selected_localities = st.sidebar.multiselect("Locality", localities, default=localities)
+localities = df['province'].unique()
+selected_localities = st.sidebar.multiselect("Province", localities, default=localities)
 
 genders = df['gender'].unique()
 selected_genders = st.sidebar.multiselect("Gender", genders, default=genders)
@@ -59,16 +59,17 @@ selected_chattype = st.sidebar.multiselect("Chat Type", chattype, default=chatty
 filtered_df = df[
     (df['date'] >= pd.to_datetime(start_date)) &
     (df['date'] <= pd.to_datetime(end_date)) &
+    (df['duration'] >= selected_durations[0]) &
+    (df['duration'] <= selected_durations[1]) &
     (df['category'].isin(selected_categories)) &
-    (df['countryName'].isin(selected_countries)) &
-    (df['locality'].isin(selected_localities)) &
+    # (df['countryName'].isin(selected_countries)) &
+    (df['province'].isin(selected_localities)) &
     (df['gender'].isin(selected_genders)) &
     (df['language'].isin(selected_languages)) &
     (df['chatType'].isin(selected_chattype))
 ]
 
-st.title("Dashboard KPIs")
-st.write("### Key Metrics")
+st.write("### KPI Key Metrics")
 
 col1, col2, col3, col4 = st.columns(4)
 
@@ -86,34 +87,26 @@ with col4:
     st.metric("Avg Call Duration (sec)", f"{avg_duration:.2f}" if pd.notna(avg_duration) else "N/A")
 
 with st.container():
-    st.write("### Country-wise, Gender-wise Categories")
-    group_sun = (
-            filtered_df.groupby(["countryName", 'gender', "category", "chatType"])
-            .size()
-            .reset_index(name="count")
-        )
-    sunburst_fig = px.sunburst(group_sun, path=['countryName', 'gender', 'category', 'chatType'], values='count', color='countryName', width=700, height=700)
-    st.plotly_chart(sunburst_fig, use_container_width=True)
-
-    # st.write("### Location Density of Calls/Chats")
-    # heatmap_fig = px.density_mapbox(filtered_df, lat='latitude', lon='longitude', z='age',
-    #                                 radius=70, center=dict(lat=0, lon=180),
-    #                                 mapbox_style="stamen-terrain", zoom=3)
-    # st.plotly_chart(heatmap_fig)
-
-    st.write("### Counts of Categories")
-    bar_chart_fig = px.bar(filtered_df, x='locality', color='category', barmode='stack', text_auto=True)
+    st.write("### Province-wise categories")
+    bar_chart_fig = px.bar(
+                filtered_df.groupby(['province', 'category']).size().reset_index(name='count'),
+                x='province',
+                y='count',
+                color='category',
+                barmode="stack",
+                text_auto=True,
+            )
     st.plotly_chart(bar_chart_fig, use_container_width=True)
 
-
     st.write("##")
-    scatter_chart_fig = px.scatter(filtered_df, x='age', y='locality', color='category', size='height', log_x=True, size_max=60)
+    
+    st.write("### Age distribution across Provinces")
+    scatter_chart_fig = px.scatter(filtered_df, x='age', y='province', color='category', size='duration', log_x=True, size_max=60)
     st.plotly_chart(scatter_chart_fig, use_container_width=True)
 
-    st.write("### Trends of Calls/Chats Over Time")
 
     st.write("### Chat Type Distribution")
-    pie_chart_fig = px.pie(filtered_df, names='chatType', title='Chat Type Distribution')
+    pie_chart_fig = px.pie(filtered_df, names='chatType')
     st.plotly_chart(pie_chart_fig, use_container_width=True)
 
     st.write("### Age vs. Height/Weight with Category Hue")
@@ -121,17 +114,40 @@ with st.container():
     st.plotly_chart(scatter_plot_fig, use_container_width=True)
 
 
-    
+    st.write("### Chats over Time")
     group_line = (
-            filtered_df.groupby(["category", "date", 'callId'])
+            filtered_df.groupby(["date", 'chatId'])
             .size()
             .reset_index(name="count")
         )
-    line_chart_fig = px.line(group_line, x='date', y='count', color='category', title='Calls/Chats Over Time')
+    line_chart_fig = px.line(group_line, x='date', y='count')
     st.plotly_chart(line_chart_fig, use_container_width=True)
 
     st.write("### Geographical Distribution of Calls/Chats")
     map_fig = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='category', size='duration',
-                                hover_name='countryName', hover_data=['locality', 'thoroughfare'],
+                                hover_name='countryName', hover_data=['province', 'thoroughfare'],
                                 mapbox_style="open-street-map", zoom=3)
     st.plotly_chart(map_fig, use_container_width=True)
+
+    
+    map_fig_chat = px.scatter_mapbox(filtered_df, lat='latitude', lon='longitude', color='chatType', size='age',
+                                hover_name='countryName', hover_data=['province', 'thoroughfare'],
+                                mapbox_style="open-street-map", zoom=3)
+    st.plotly_chart(map_fig_chat, use_container_width=True)
+
+    
+    st.write("### Location Density of Calls")
+    heatmap_fig = px.density_mapbox(filtered_df, lat='latitude', lon='longitude', z='duration',
+                                    radius=10, center=dict(lat=-20, lon=36),
+                                    mapbox_style="open-street-map", zoom=3)
+    st.plotly_chart(heatmap_fig)
+
+    
+    st.write("### Province-wise Drilldown")
+    group_sun = (
+            filtered_df.groupby(["province", "category", "chatType", 'gender'])
+            .size()
+            .reset_index(name="count")
+        )
+    sunburst_fig = px.sunburst(group_sun, path=['province', 'category', 'chatType', 'gender'], values='count',  width=700, height=700)
+    st.plotly_chart(sunburst_fig, use_container_width=True)
