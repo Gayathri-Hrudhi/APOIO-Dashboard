@@ -12,7 +12,6 @@ st.set_page_config(
     page_title="Patient Data Analysis",
     page_icon=fav_icon,
     layout="wide",
-    base = "light",
     initial_sidebar_state="expanded"
 )
 
