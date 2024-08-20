@@ -177,21 +177,13 @@ with tab1:
 with tab2:
     chat_filtered_df = filtered_df[filtered_df.chatId.notna()]
     for index, row in chat_filtered_df.iterrows():
-        with st.expander(f"Chat {row['chatId']}"):
-            st.write(f'{row['transcription'][:100]}...')
-
-            # Button to show full transcription
-            if st.button(f"Show full transcription of Chat {row['chatId']}"):
-                st.write(f'Category - {row['category']}')
-                st.write(row['transcription'])
+        with st.expander(f'Chat {row['chatId']} - {row['transcription'][:30]}...'):
+            st.write(f'Category - {row['category']}')
+            st.write(row['transcription'])
 
 with tab3:
     call_filtered_df = filtered_df[filtered_df.callId.notna()]
     for index, row in call_filtered_df.iterrows():
-        with st.expander(f"Call {row['callId']}"):
-            st.write(f'{row['transcription'][:100]}...')
-
-            # Button to show full transcription
-            if st.button(f"Show full transcription of Call {row['callId']}"):
-                st.write(f'Category - {row['category']}')
-                st.write(row['transcription'])
+        with st.expander(f'Call {row['callId']} - {row['transcription'][:30]}...'):
+            st.write(f'Category - {row['category']}')
+            st.write(row['transcription'])
