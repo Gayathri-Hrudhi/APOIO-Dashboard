@@ -93,7 +93,8 @@ with st.container():
                 x='province',
                 y='count',
                 color='category',
-                barmode="stack",
+                barmode="stack", 
+                category_orders={'province': ['Maputo City','Maputo','Gaza','Inhambane','Manica','Sofala','Tete','Zambezia','Nampula','Cabo Delgado','Niassa']},
                 text_auto=True,
             )
     st.plotly_chart(bar_chart_fig, use_container_width=True)
